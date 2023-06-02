@@ -1,0 +1,43 @@
+img {
+    width: 800px;
+    height: 500px;
+    margin-left: 250px;
+}
+body{
+    background-color: green;
+}
+h1{
+    text-align: center;
+    color: red;
+    text-transform: uppercase;
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
+b{
+    color: blue;
+}
+strong {
+    color: blue;
+    text-indent: 50px;
+}
+header {
+    margin-left: 20px;
+}
+div {
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-top: none;
+    border-left: none;
+    border-bottom: 1px groove yellow;
+    border-right: 1px ridge yellow;
+    background-color: darkgreen;
+}
+footer {
+    margin-left: 10px;
+    padding-top: 20px;
+}
